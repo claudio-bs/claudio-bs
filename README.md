@@ -1,5 +1,5 @@
 # Cláudio Barreto Santana
-Formado em Administração de Empresas, com especialização em Gestão de Saúde Pública e um MBA em Gestão de Tecnologia da Informação, após transição de carreira, atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou focado em desenvolver meu background técnico estudando também Engenharia de Qualidade de Software (QA) e as tecnologias mais recentes na área de Desenvolvimento de Sistemas Front-End.
+Formado em Administração de Empresas, com especialização em Gestão de Saúde Pública e um MBA em Gestão de Tecnologia da Informação, após transição de carreira, atualmente estou me graduando em Análise e Desenvolvimento de Sistemas. Estou focado em desenvolver meu background técnico estudando também Engenharia de Qualidade de Software (QA) e as tecnologias mais recentes na área de Desenvolvimento de Sistemas Front-End.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/claudio_bs/)
