@@ -1,4 +1,4 @@
-# Cláudio Barreto Santana
+# Cláudio Santana
 Engenheiro de Qualidade de Software em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia. Graduado em Administração de Empresas, pós-graduado com MBA em Gestão de Tecnologia da Informação. Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas. Profissional com perfil analítico, visão técnica de negócios, atitude proativa e senso de responsabilidade.
 
 ### Conecte-se comigo
