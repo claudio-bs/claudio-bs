@@ -37,6 +37,6 @@ Engenheiro de Qualidade de Software pela EBAC – Escola Britânica de Artes Cri
 
 ### GitHub Stats
 ![Linguagens mais utilizadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=claudio-bs&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&layout=compact&custom_title=Linguagens%20mais%20utilizadas&langs_count=6)
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=claudio-bs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=claudio-bs&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=false)
 
 ---
